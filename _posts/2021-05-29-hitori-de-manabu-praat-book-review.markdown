@@ -3,6 +3,7 @@ layout: post
 title:  "Book review: ひとりでも学べる日本語の発音"
 date:   2021-05-29 11:22:45 +0200
 categories: book review
+comments: true
 ---
 
 ![Book cover]({{ site.url }}/assets/hitori_de_manabu_praat_book.jpg)
