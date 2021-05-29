@@ -8,7 +8,7 @@ comments: true
 ![Book cover]({{ site.url }}/assets/hitori_de_manabu_praat_book.jpg)
 
 
-TL;DR: I recommended [this book][product-page] to intermediate learners as a solid introduction to japanese pronunciation,
+TL;DR: I can recommend [this book][product-page] to intermediate learners as a solid introduction to japanese pronunciation,
 and a great guide on how to practice it by yourself using shadowing and the [Praat software][praat].  
 
 
