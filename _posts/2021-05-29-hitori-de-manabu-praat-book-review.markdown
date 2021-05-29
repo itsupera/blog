@@ -32,7 +32,7 @@ It is not an exhaustive resource though, for example for verbs only the most com
    and the reader is directed to the [OJAD website][ojad-website] for further details. 
 
 
-This book is valuable as a guide how to practice your pronunciation.
+This book is valuable as a guide on how to practice your pronunciation.
 For example, using the audio content that comes with the book, it advises you to perform the following shadowing exercise:
 
 1. First read the transcript while listening
