@@ -1,8 +1,8 @@
 title: Itsupera
 email: itsupera@gmail.com
 description: >-
-  My awesome blog.
-baseurl: "" # the subpath of your site, e.g. /blog
+  Itsupera's site.
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://itsupera.github.io/"
 github_username:  itsupera
 disqus: itsupera-github-io
