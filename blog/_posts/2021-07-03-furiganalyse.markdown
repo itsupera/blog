@@ -23,7 +23,7 @@ It is using the MeCab toolkit to segment the sentence into "words" and get their
 The more complex part was mapping each kana of the reading to each kanji of the original text.
 There a few annoying cases to deal with, and though it will fail from time to time it is really usable at this point.
 
-[furiganalyse-demo]: http://furiganalyse.eu-west-3.elasticbeanstalk.com
+[furiganalyse-demo]: http://furiganalyse.itsupera.co
 [furiganalyse-epub]: https://github.com/haoxuany/furiganalize-epub
 [furiganalyse-github]: https://github.com/itsupera/furiganalyse
 [itsupera-furigana-github]: https://github.com/itsupera/furigana
